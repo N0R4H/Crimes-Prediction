@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=306998">
-<img src="https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=seaborn&logoColor=FF6F00">
 <img src="https://img.shields.io/badge/Numpy-20232A?style=for-the-badge&logo=numpy&logoColor=4B8BBE">
 <img src="https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=150458">
 <img src="https://img.shields.io/badge/Sklearn-20232A?style=for-the-badge&logo=scikit-learn&logoColor=FF6F00">
