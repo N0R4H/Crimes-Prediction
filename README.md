@@ -14,5 +14,4 @@ This was Preparatory Classes (PREPA) evaluation test on personal initiative work
 The dataset comprises reported crime incidents in Chicago from 2001 to present, excluding the most recent week, sourced from the Chicago Police Department's CLEAR system. To protect victim privacy, addresses are only provided at the block level, and specific locations are withheld. Users are cautioned that the data might be subject to change due to ongoing investigations or errors, and its accuracy over time is not guaranteed, as stated by the Chicago Police Department.
  Source : [https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
 ](https://www.kaggle.com/datasets/currie32/crimes-in-chicago)
-## Summary
 
